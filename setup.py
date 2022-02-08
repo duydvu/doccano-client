@@ -14,7 +14,7 @@ dev_packages = [
 ]
 
 setup(
-    name="doccano-client",
+    name="doccano-client-duydv",
     use_scm_version=True,
     setup_requires=["setuptools_scm"],
     description="A simple client wrapper for the doccano API.",
